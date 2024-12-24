@@ -1,6 +1,6 @@
-x = "congratulations"
-print(x)
-x = "Congratulations"
-print(x)
+input = "congratulations"
+print(input)
+input = "Congratulations"
+print(input)
 
 
